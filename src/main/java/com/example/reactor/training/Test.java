@@ -1,4 +1,4 @@
-package com.example.reactor.trainig;
+package com.example.reactor.training;
 
 public class Test {
 	public static void main(String[] args) {
